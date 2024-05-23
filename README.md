@@ -1,8 +1,8 @@
 ### Hi there! I'm Rebeca Brasil 👋
 
 - 🔭 I’m currently working on my career transition
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Java 
-- ⚡ Fun fact: technology will be my fourth occupation area
+- 🌱 I’m currently learning HTML, CSS, JavaScript and Python 
+- ⚡ Fun fact: technology is my fourth occupation area
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brasillrebeca&show_icons=true&theme=transparent)
 
